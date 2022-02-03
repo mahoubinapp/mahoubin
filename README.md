@@ -1,2 +1,4 @@
 # mahoubin
-mahoubin-app Repository
+mahoubin-app Repository　/ content for Japanese
+
+色々テスト
